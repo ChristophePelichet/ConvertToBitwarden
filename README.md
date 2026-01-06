@@ -44,11 +44,11 @@ This Python script reads a password manager export file (CSV format) and convert
 2. **Prepare your source file** 📄
    
    Make sure your CSV contains these columns:
-   - `Titre` (Entry title)
-   - `URL` (Website address)
+   - `Titre` (Title)
+   - `URL` (Website URL)
    - `Nom d'utilisateur` (Username)
    - `Mot de passe` (Password)
-   - `Commentaire` (Notes)
+   - `Commentaire` (Comments)
 
 3. **Run the conversion** 🚀
    ```bash
